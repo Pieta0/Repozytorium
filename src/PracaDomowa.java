@@ -17,9 +17,9 @@ public class PracaDomowa {
         System.out.println("wynik dodawania tych liczb: " +res1);
         int res2 = firstNumber - secondNumber;
         System.out.println("Wynik odejmowania tych liczb: "+ res2);
-        double res3 = firstNumber / secondNumber;
+        int res3 = firstNumber / secondNumber;
         System.out.println("Wynik dzielenia tych liczb: "+ res3);
-        double res4 = firstNumber * secondNumber;
+        int res4 = firstNumber * secondNumber;
         System.out.println("wynik mnożenia tych liczb: " + res4 );
         int res5 = firstNumber%secondNumber;
         System.out.println("wynik modulo: " + res5);
